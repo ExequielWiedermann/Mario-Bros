@@ -11,7 +11,7 @@
     left: 0;
     width: 64px;
     height: 64px;
-    background-image: url('mario.png');
+    background-image: url('../IMAGENES/mario.png');
     background-position: 0 0;
   }
   
@@ -21,6 +21,6 @@
     left: 128px;
     width: 32px;
     height: 32px;
-    background-image: url('coin.png');
+    background-image: url('../IMAGENES/coin.png');
     background-position: 0 0;
   }
