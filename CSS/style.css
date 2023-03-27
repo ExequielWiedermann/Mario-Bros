@@ -1,0 +1,26 @@
+#game {
+    position: relative;
+    width: 640px;
+    height: 480px;
+    background-color: #5c94fc;
+  }
+  
+  #mario {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 64px;
+    height: 64px;
+    background-image: url('mario.png');
+    background-position: 0 0;
+  }
+  
+  #coin {
+    position: absolute;
+    bottom: 64px;
+    left: 128px;
+    width: 32px;
+    height: 32px;
+    background-image: url('coin.png');
+    background-position: 0 0;
+  }
